@@ -1,0 +1,7 @@
+base   toolbarbtn
+author Vincent Voisin
+email  
+date   2020-07-10
+name   Toolbar plugin
+desc   A customize edition toolbar
+url    
